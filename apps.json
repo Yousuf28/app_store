@@ -1,14 +1,14 @@
 {
   "apps": [
     {
-      "slug": "lollipop-studio",
-      "name": "Lollipop Studio",
+      "slug": "lollipop-dress-up",
+      "name": "Lollipop Dress Up",
       "bundle_id": "yousuf.kLollipop",
-      "url": "https://yousuf28.github.io/app_store/lollipop-studio/",
-      "privacy_url": "https://yousuf28.github.io/app_store/lollipop-studio/privacy.html",
-      "support_url": "https://yousuf28.github.io/app_store/lollipop-studio/support.html",
+      "url": "https://yousuf28.github.io/app_store/lollipop-dress-up/",
+      "privacy_url": "https://yousuf28.github.io/app_store/lollipop-dress-up/privacy.html",
+      "support_url": "https://yousuf28.github.io/app_store/lollipop-dress-up/support.html",
       "tagline": "Dress up and dance on stage",
-      "description": "Lollipop Studio is a dress-up and dance game for kids. Pick one of three stars, style her outfit, then tap SHOW to watch her perform on stage."
+      "description": "Lollipop Dress Up is a dress-up and dance game for kids. Pick one of three stars, style her outfit, then tap SHOW to watch her perform on stage."
     }
   ]
 }
