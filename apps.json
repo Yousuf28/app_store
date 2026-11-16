@@ -1,0 +1,14 @@
+{
+  "apps": [
+    {
+      "slug": "lollipop-studio",
+      "name": "Lollipop Studio",
+      "bundle_id": "yousuf.kLollipop",
+      "url": "https://yousuf28.github.io/app_store/lollipop-studio/",
+      "privacy_url": "https://yousuf28.github.io/app_store/lollipop-studio/privacy.html",
+      "support_url": "https://yousuf28.github.io/app_store/lollipop-studio/support.html",
+      "tagline": "A small iOS app, made with care.",
+      "description": "Lollipop Studio is an iOS app by Md Yousuf Ali. The privacy policy and support page below describe exactly what it stores and how to get help."
+    }
+  ]
+}
